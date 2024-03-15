@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: http://ftp.archives.yotsubasociety.org/gacor77/sitemap.xml
